@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-gime/static/css/main.1e195b79.css",
+    "main.js": "/my-gime/static/js/main.6bdf2a50.js",
+    "static/js/453.64512fd7.chunk.js": "/my-gime/static/js/453.64512fd7.chunk.js",
+    "index.html": "/my-gime/index.html",
+    "main.1e195b79.css.map": "/my-gime/static/css/main.1e195b79.css.map",
+    "main.6bdf2a50.js.map": "/my-gime/static/js/main.6bdf2a50.js.map",
+    "453.64512fd7.chunk.js.map": "/my-gime/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e195b79.css",
+    "static/js/main.6bdf2a50.js"
+  ]
+}
